@@ -163,3 +163,5 @@ Dataset/
 Dataset.zip
 .zip
 data/cell_data.zip
+
+artifacts/*
