@@ -165,3 +165,4 @@ Dataset.zip
 data/cell_data.zip
 
 artifacts/*
+.vscode
