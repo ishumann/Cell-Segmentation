@@ -46,14 +46,10 @@ localhost:8080
 
 # AZURE CI/CD Deployment with Github Actions
 
-## Save pass:
-```
-S6tXzK7IxUHz9O/9jkhciLsseddeQ++E+OcD7nQYy8+ACRDtEgUW
-```
 
 ## Run from terminal:
 ```
-docker build -t cellseg.azurecr.io/cell:latest
+docker build -t cellseg.azurecr.io/cell:latest .
 ```
 ```
 docker login cellseg.azurecr.io
