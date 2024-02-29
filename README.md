@@ -1,4 +1,4 @@
-# End-to-end Cell Segmentation Using Yolo v8
+# End-to-end Cell Segmentation Using Yolo v8 [![Build and deploy container app to Azure Web App - cellseg](https://github.com/ishumann/Cell-Segmentation/actions/workflows/main_cellseg.yml/badge.svg)](https://github.com/ishumann/Cell-Segmentation/actions/workflows/main_cellseg.yml)
 
 ## Workflows
 
