@@ -1,3 +1,3 @@
 APP_HOST = '0.0.0.0'
 # APP_PORT = 8080
-APP_PORT = 8080 # for AZURE
+APP_PORT = 80 # for AZURE
